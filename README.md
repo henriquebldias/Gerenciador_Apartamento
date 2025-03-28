@@ -1,6 +1,6 @@
 # Gerenciamento de Apartamentos
 
-Bem vindo ao gerenciador, esta é uma aplicação web para o gerenciamento de apartamentos. Nesta sistema você pode criar, consultar, editar e excluir apartamentos.
+Bem vindo ao gerenciador, esta é uma aplicação web para o gerenciamento de apartamentos. Neste sistema você pode criar, consultar, editar e excluir apartamentos.
 
 ## Tecnologias utilizadas:
 
